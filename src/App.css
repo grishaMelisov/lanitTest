@@ -3,4 +3,9 @@
 .App {
   font-family: Lato;
   font-weight: 400;
+  /* max-width: 1920px; */
+}
+
+a {
+  text-decoration: none;
 }

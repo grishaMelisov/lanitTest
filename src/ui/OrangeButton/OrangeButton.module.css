@@ -1,0 +1,26 @@
+button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  color: #fff;
+}
+
+.header_button {
+  background: linear-gradient(55.95deg, #ff3f3a 0%, #f75e05 100%);
+  border-radius: 4px;
+  outline: none;
+  border: none;
+  width: 206px;
+  height: 52px;
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 52px;
+  letter-spacing: 0.5px;
+}
+.header_button:active {
+  background: linear-gradient(55.95deg, #f75e05 100%, #ff3f3a 20%);
+  border: 2px solid #ff3f3a;
+}

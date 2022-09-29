@@ -1,0 +1,16 @@
+.registration {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding-left: 36px;
+  gap: 8px;
+}
+
+.registration a {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 160%;
+  color: #424551;
+}
