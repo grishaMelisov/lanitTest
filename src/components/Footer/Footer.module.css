@@ -1,0 +1,13 @@
+.footer {
+  background: #1e212c;
+  height: 396px;
+  width: 100%;
+  position: relative;
+}
+
+.footer_wrapper {
+  padding: 80px 345px 0;
+  display: flex;
+  gap: 80px;
+  /* align-items: center; */
+}

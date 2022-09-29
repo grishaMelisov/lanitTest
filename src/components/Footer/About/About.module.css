@@ -1,0 +1,22 @@
+.about {
+  /* display: flex; */
+  flex-direction: column;
+}
+
+.logo {
+  padding-bottom: 24px;
+}
+
+.about p {
+  width: 279px;
+
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 150%;
+  opacity: 0.6;
+  color: #ffffff;
+  margin: 0;
+  padding-bottom: 38px;
+}
