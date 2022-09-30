@@ -3,6 +3,7 @@ import { Contacts } from './Contacts/Contacts'
 import { Copyright } from './Copyright/Copyright'
 import { Courses } from './Courses/Courses'
 import s from './Footer.module.css'
+import { Signup } from './Signup/Signup'
 import { Sitemap } from './Sitemap/Sitemap'
 
 export function Footer() {
@@ -13,6 +14,7 @@ export function Footer() {
         <Sitemap />
         <Courses />
         <Contacts />
+        <Signup />
       </div>
       <Copyright />
     </div>
